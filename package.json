@@ -4,7 +4,7 @@
   "description": "An infinitely scrolling view that notifies you as the scroll offset approaches the bottom",
   "main": "InfiniteScrollView.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint ."d
   },
   "repository": {
     "type": "git",
